@@ -31,4 +31,4 @@ Files
 
 Notes
 
-- The demo uses the built `dist/lumen.min.css` file. If you update the source, rebuild the `dist/` file before testing the demo.
+- The demo uses the built `dist/css/lumen.min.css` file. If you update the source, rebuild the `dist/` file before testing the demo.
