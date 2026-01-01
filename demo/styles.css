@@ -1,0 +1,6 @@
+#grid .row > * > article {
+  padding: 1rem;
+  border: 1px dashed var(--lumen-form-element-border-color);
+  border-radius: var(--lumen-border-radius);
+  text-align: center;
+}
