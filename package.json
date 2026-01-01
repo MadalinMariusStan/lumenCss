@@ -1,0 +1,12 @@
+{
+  "name": "lumen-css",
+  "version": "0.0.1",
+  "description": "Minimal, semantic CSS framework focused on clarity, accessibility, and zero-JS ergonomics.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadalinMariusStan/lumenCss.git"
+  },
+  "files": ["dist", "src", "README.md", "LICENSE"],
+  "style": "dist/css/lumen.min.css"
+}
